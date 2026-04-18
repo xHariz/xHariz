@@ -9,7 +9,9 @@
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-ffffff.svg?logo=laravel"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind-14354C.svg?logo=tailwind-css"></a>
   </div>
   <div>
       <a href="https://github.com/search?q=user%3ACharKwehTiawKerang+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -35,9 +37,13 @@
   <div>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-cccccc.svg?logo=mysql"></a>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-ffffff.svg?logo=postgresql"></a>
       <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-000000.svg?logo=supabase"></a>
       <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
       <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-000000.svg?logo=railway&logoColor=white"></a>
+      <a href="#"><img alt="RESTAPI" src="https://img.shields.io/badge/REST-API-brightgreen"></a>
+      <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-red.svg?logo=filezilla"></a>
+      <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-white.svg?logo=xampp"></a>
   </div>
 </div>
 
