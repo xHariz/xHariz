@@ -34,7 +34,8 @@
   </div>
   <div>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-cccccc.svg?logo=mysql"></a>
+      <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-000000.svg?logo=supabase"></a>
       <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
       <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-000000.svg?logo=railway&logoColor=white"></a>
   </div>
