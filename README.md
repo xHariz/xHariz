@@ -57,6 +57,8 @@ My appetite for learning knows no bounds. I stand ready to embrace any programmi
 
 Aside from programming, I have hobbies such as photography, doing outdoors activites such as hiking and fishing. It's fun and helps me learns more about this outside world, instead of just sitting in front of my screen 24/7. For photography, I love collecting beautiful photo because it's an art. For sports, I play pingpong and for my free time, all I do is learn a bunch of new life skill.
 
+Currently transitioning into SAP ABAP development — actively upskilling SAP ABAP.
+
 <div align="right">
     <!-- <img src="https://assets.harizasyraf.com/images/digital-autograph-harizasyraf.png" alt="Hariz Signature" width="100"> -->
 </div>
